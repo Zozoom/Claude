@@ -20,14 +20,6 @@
       "PowerShell(git clean *)",
       "PowerShell(git checkout -b *)",
       "PowerShell(git switch -c *)"
-    ],
-    "deny": [
-      "Read(.env)",
-      "Read(.env.local)",
-      "Read(.env.development)",
-      "Read(.env.staging)",
-      "Read(.env.production)",
-      "Read(.env.test)"
     ]
   }
 }
